@@ -24,7 +24,7 @@ do
       "Installer of Nodejs")
       sudo apt-get update
       sudo apt-get install wget
-      https://nodejs.org/dist/v11.9.0/node-v11.9.0-linux-x64.tar.xz
+      wget https://nodejs.org/dist/v11.9.0/node-v11.9.0-linux-x64.tar.xz
       tar -xvf node-v11.9.0-linux-x64.tar.xz
       cd node-v11.9.0-linux-x64
       mv -f -u -i bin /usr/
