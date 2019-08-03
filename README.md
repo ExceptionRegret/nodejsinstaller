@@ -5,7 +5,7 @@ Download google verification bypasser 2019:https://github.com/hackerstech/nodejs
 
 usage :
 1)cd Desktop/
-1
+
 2)git clone https://github.com/hackerstech/nodejsinstaller.git
 
 3)cd nodejsinstaller
