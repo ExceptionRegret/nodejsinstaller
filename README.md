@@ -1,12 +1,11 @@
-# NodejsInstaller2019
+# NodejsInstaller
 Automated Shell Script To Install node js on any Linux 
-Made By solo-angel
-Download google verification bypasser 2019:https://github.com/solo-angel/nodejsinstaller.git
+Made By ExceptionRegret
 
 usage :
 1)cd Desktop/
 
-2)git clone https://github.com/solo-angel/nodejsinstaller.git
+2)git clone https://github.com/ExceptionRegret/nodejsinstaller
 
 3)cd nodejsinstaller
 
